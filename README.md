@@ -1,1 +1,1 @@
-How to generate token on github Platform
+How to generate token on github Platform DOMY
